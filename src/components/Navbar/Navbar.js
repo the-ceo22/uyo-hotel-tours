@@ -15,10 +15,10 @@ export default function Navbar() {
                         <a href='/' className='nav-link'>About</a>
                     </li>
                     <li>
-                        <a href='https://essien-city-tours.netlify.app' className='nav-link'>Cities</a>
+                        <a href='https://essien-city-tours.netlify.app' className='nav-link'>Cities tour</a>
                     </li>
                     <li>
-                        <a href='/' className='nav-link active'>Hotels in Uyo</a>
+                        <a href='/' className='nav-link active'>Hotels tours</a>
                     </li>
                 </ul>
             </nav>

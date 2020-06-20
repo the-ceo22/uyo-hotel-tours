@@ -2,11 +2,11 @@
 
 .tour {
     background: $mainWhite;
-    border-radius: 5rem 0 5rem 0;
+    //border-radius: 5rem 0 0 0;
     margin: 1rem 0;
     img{
         width: 100%;
-        border-top-left-radius: 5rem;
+        //border-top-left-radius: 5rem;
         display: block;
     }
 }
@@ -34,7 +34,7 @@
 .tour-info {
     padding: 1rem 0.5rem;
     background: $mainOrange;
-    border-radius: 0 0 5rem 0;
+    border-radius: 0 0 0 0;
     //font-weight: bold;
     
     h3 {
@@ -44,7 +44,7 @@
 
     h4 {
         text-transform: capitalize;
-        font-weight: bold;
+        //font-weight: bold;
         color: green;
         margin: 0.2rem 0 0.6rem 0; 
     }

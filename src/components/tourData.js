@@ -2,7 +2,7 @@ export default [
     {
         id: 1, 
         city: 'Uyo', 
-        img: './img/ibom hotels.jpeg',
+        img: './img/ibomhotels.jpeg',
         name: 'Ibom Hotels & Golf Resort, Uyo',
         info: "Ibom hotels and golf formerly known as the le meridian Ibom hotel and golf resort is one of the finest names when it comes to the tourism and hospitality industry in Nigeria and Africa. This 5-star hotel is one the premier holiday resort in the country and trhe first in the entire south-south and south-east region of Nigeria. It has 18 hole international standard golf course and 250 standard and well furnished rooms and suites, olympic size pool for adults and children pool as well. The 5-star hotel is managed by the le meridian group of France."
     },
@@ -117,5 +117,13 @@ export default [
         img: './img/uranus.jpeg',
         name: 'Uranus Hotels Limited, Uyo',
         info: "Uranus is one of the best hotels around Uyo, their facilities are top-notch and their services are second to none while their rates are modrate. located along Aka-Itiam street in Uyo, Uranus hotels limited has a serene and cozy environment for comfort, leisure and relaxation."
-    }
+    },
+
+    {
+      id: 16, 
+      city: 'Uyo', 
+      img: './img/hoteltropicana.jpeg',
+      name: 'Tropicana Sheraton Hotels, Uyo',
+      info: "This fascinating gigantic edifice is an ultra modern 5-star hotel building in Uyo the Akwa Ibom state capital. This 21st century compliance hotel is one of the most beautiful hotel facility in Africa, it services are top-notch. This hotel offerss a wide variety of services that you could think of in any 5-star hotel across the gloe. Its fascinating spectacle is indeed a beauty to behold."
+  }
 ];
